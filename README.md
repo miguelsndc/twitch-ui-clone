@@ -23,18 +23,20 @@
   
 </p>
 
+<h3 align="center">
+  This is a project developed by me with the help of <a href="https://www.linkedin.com/in/guilhermerodz/">Guilherme Rodz</a>.
+</h3>
+
 <h4 align="center">
-  This is a project developed during the Next Level Week of the Rocketseat platform, with <a href="https://www.linkedin.com/in/diego-schell-fernandes/">Diego Schell Fernandes</a> as instructor.
+  This project is still under development.
 </h4>
 
 <p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <img src="https://res.cloudinary.com/db9t2jrhe/image/upload/v1615750025/1615749872537_uevx5j.png" width="250"/>
+  <img src="https://res.cloudinary.com/db9t2jrhe/image/upload/v1615750023/1615749855170_icsvwf.png" width="250"/>
+  <img src="https://res.cloudinary.com/db9t2jrhe/image/upload/v1615750022/1615749839152_v4k0ns.png" width="250"/>
 </p>
-  
-<h1 align="center">
-  Demo at Vercel ☝🏽
-</h1>
+
 
 ## 🚀 Technologies 
 This project was developed by me the following technologies:
