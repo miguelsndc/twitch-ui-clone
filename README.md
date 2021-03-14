@@ -85,7 +85,7 @@ $ yarn start // or npm run start
 
 ## 📝 License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/miguelsndc/moveit/blob/main/LICENSE.md) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/miguelsndc/Twitch-UI-Clone/blob/main/LICENSE) for more information.
 
 ---
 
